@@ -153,6 +153,7 @@ public class GamePanel extends JPanel implements KeyListener, ActionListener {
 						+ "checkers of the same color in a row, whether it be horizontally, vertically, or diagonally.\n"
 						+ "This game requires two players and their turns will alternate. On their turn, a player will\n"
 						+ "drop a colored checker into a column, selected by pressing a number key on their keyboard.\n"
+						+ "The number keys to press are marked by numbers over each column at the top of the board.\n"
 						+ "The first player to connect four checkers in a row of the same color wins!");
 			}
 		}
